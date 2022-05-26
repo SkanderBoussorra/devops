@@ -1,0 +1,95 @@
+2022-05-26 14:25:11 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.ajouterEmploye(EmployeServiceImpl.java:44):44 - Dans ajouterEmploye() : 
+2022-05-26 14:25:11 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.ajouterEmploye(EmployeServiceImpl.java:45):45 - Ajout de l'emplyé Employe [id=0, prenom=bsr, nom=skander, email=skander.boussorra@esprit.tn, password=null, actif=true, role=INGENIEUR]
+2022-05-26 14:25:11 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.ajouterEmploye(EmployeServiceImpl.java:48):48 - Ajout Employé fait !!!
+2022-05-26 14:25:11 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.ajouterEmploye(EmployeServiceImpl.java:49):49 - Sortie de ajouterEmployé sans erreurs
+2022-05-26 14:25:51 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.ajouterEmploye(EmployeServiceImpl.java:44):44 - Dans ajouterEmploye() : 
+2022-05-26 14:25:51 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.ajouterEmploye(EmployeServiceImpl.java:45):45 - Ajout de l'emplyé Employe [id=0, prenom=bsr, nom=skander, email=skander.boussorra@esprit.tn, password=null, actif=true, role=INGENIEUR]
+2022-05-26 14:25:51 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.ajouterEmploye(EmployeServiceImpl.java:48):48 - Ajout Employé fait !!!
+2022-05-26 14:25:51 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.ajouterEmploye(EmployeServiceImpl.java:49):49 - Sortie de ajouterEmployé sans erreurs
+2022-05-26 14:26:56 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.ajouterEmploye(EmployeServiceImpl.java:44):44 - Dans ajouterEmploye() : 
+2022-05-26 14:26:56 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.ajouterEmploye(EmployeServiceImpl.java:45):45 - Ajout de l'emplyé Employe [id=0, prenom=bsr, nom=skander, email=skander.boussorra@esprit.tn, password=null, actif=true, role=ADMINISTRATEUR]
+2022-05-26 14:26:57 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.ajouterEmploye(EmployeServiceImpl.java:48):48 - Ajout Employé fait !!!
+2022-05-26 14:26:57 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.ajouterEmploye(EmployeServiceImpl.java:49):49 - Sortie de ajouterEmployé sans erreurs
+2022-05-26 14:27:31 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:307):307 - ** start  getAllEmployees : 
+2022-05-26 14:27:32 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:311):311 -  -- N° 1 : the employee list count :1
+2022-05-26 14:27:32 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:312):312 - ** end  getAllEmployees without error 
+2022-05-26 14:28:32 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:307):307 - ** start  getAllEmployees : 
+2022-05-26 14:28:32 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:311):311 -  -- N° 1 : the employee list count :1
+2022-05-26 14:28:32 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:312):312 - ** end  getAllEmployees without error 
+2022-05-26 14:28:32 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:239):239 - ** start  UpdateEmailByEmployeeIdJPQL : 
+2022-05-26 14:28:32 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:241):241 -  -- N° 1 : the employee :10 will have a new mail :sk@mail.com
+2022-05-26 14:28:32 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:243):243 -  -- N° 2 : the employee :10 updated successfully 
+2022-05-26 14:28:32 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:244):244 - ** end  UpdateEmailByEmployeeIdJPQL without error 
+2022-05-26 14:28:32 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:307):307 - ** start  getAllEmployees : 
+2022-05-26 14:28:32 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:311):311 -  -- N° 1 : the employee list count :1
+2022-05-26 14:28:32 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:312):312 - ** end  getAllEmployees without error 
+2022-05-26 14:30:19 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:307):307 - ** start  getAllEmployees : 
+2022-05-26 14:30:19 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:311):311 -  -- N° 1 : the employee list count :1
+2022-05-26 14:30:19 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:312):312 - ** end  getAllEmployees without error 
+2022-05-26 14:30:19 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:239):239 - ** start  UpdateEmailByEmployeeIdJPQL : 
+2022-05-26 14:30:19 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:241):241 -  -- N° 1 : the employee :10 will have a new mail :dd@mail.com
+2022-05-26 14:30:19 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:243):243 -  -- N° 2 : the employee :10 updated successfully 
+2022-05-26 14:30:19 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:244):244 - ** end  UpdateEmailByEmployeeIdJPQL without error 
+2022-05-26 14:30:19 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:307):307 - ** start  getAllEmployees : 
+2022-05-26 14:30:19 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:311):311 -  -- N° 1 : the employee list count :1
+2022-05-26 14:30:19 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:312):312 - ** end  getAllEmployees without error 
+2022-05-26 14:31:15 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.ajouterEmploye(EmployeServiceImpl.java:44):44 - Dans ajouterEmploye() : 
+2022-05-26 14:31:16 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.ajouterEmploye(EmployeServiceImpl.java:45):45 - Ajout de l'emplyé Employe [id=0, prenom=bsr, nom=sk, email=skon@esprit.tn, password=null, actif=true, role=ADMINISTRATEUR]
+2022-05-26 14:31:16 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.ajouterEmploye(EmployeServiceImpl.java:48):48 - Ajout Employé fait !!!
+2022-05-26 14:31:16 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.ajouterEmploye(EmployeServiceImpl.java:49):49 - Sortie de ajouterEmployé sans erreurs
+2022-05-26 14:32:03 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:307):307 - ** start  getAllEmployees : 
+2022-05-26 14:32:03 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:311):311 -  -- N° 1 : the employee list count :2
+2022-05-26 14:32:03 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:312):312 - ** end  getAllEmployees without error 
+2022-05-26 14:32:03 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:239):239 - ** start  UpdateEmailByEmployeeIdJPQL : 
+2022-05-26 14:32:03 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:241):241 -  -- N° 1 : the employee :10 will have a new mail :hh@mail.com
+2022-05-26 14:32:03 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:243):243 -  -- N° 2 : the employee :10 updated successfully 
+2022-05-26 14:32:03 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:244):244 - ** end  UpdateEmailByEmployeeIdJPQL without error 
+2022-05-26 14:32:03 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:307):307 - ** start  getAllEmployees : 
+2022-05-26 14:32:03 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:311):311 -  -- N° 1 : the employee list count :2
+2022-05-26 14:32:03 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:312):312 - ** end  getAllEmployees without error 
+2022-05-26 14:32:33 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:307):307 - ** start  getAllEmployees : 
+2022-05-26 14:32:33 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:311):311 -  -- N° 1 : the employee list count :2
+2022-05-26 14:32:33 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:312):312 - ** end  getAllEmployees without error 
+2022-05-26 14:32:33 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:239):239 - ** start  UpdateEmailByEmployeeIdJPQL : 
+2022-05-26 14:32:33 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:241):241 -  -- N° 1 : the employee :10 will have a new mail :cc@mail.com
+2022-05-26 14:32:33 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:243):243 -  -- N° 2 : the employee :10 updated successfully 
+2022-05-26 14:32:33 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:244):244 - ** end  UpdateEmailByEmployeeIdJPQL without error 
+2022-05-26 14:32:33 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:307):307 - ** start  getAllEmployees : 
+2022-05-26 14:32:33 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:311):311 -  -- N° 1 : the employee list count :2
+2022-05-26 14:32:33 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:312):312 - ** end  getAllEmployees without error 
+2022-05-26 14:33:28 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:307):307 - ** start  getAllEmployees : 
+2022-05-26 14:33:28 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:311):311 -  -- N° 1 : the employee list count :2
+2022-05-26 14:33:28 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:312):312 - ** end  getAllEmployees without error 
+2022-05-26 14:33:28 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:239):239 - ** start  UpdateEmailByEmployeeIdJPQL : 
+2022-05-26 14:33:28 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:241):241 -  -- N° 1 : the employee :11 will have a new mail :cc@mail.com
+2022-05-26 14:33:28 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:243):243 -  -- N° 2 : the employee :11 updated successfully 
+2022-05-26 14:33:28 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:244):244 - ** end  UpdateEmailByEmployeeIdJPQL without error 
+2022-05-26 14:33:28 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:307):307 - ** start  getAllEmployees : 
+2022-05-26 14:33:28 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:311):311 -  -- N° 1 : the employee list count :2
+2022-05-26 14:33:28 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:312):312 - ** end  getAllEmployees without error 
+2022-05-26 14:34:29 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:307):307 - ** start  getAllEmployees : 
+2022-05-26 14:34:30 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:311):311 -  -- N° 1 : the employee list count :2
+2022-05-26 14:34:30 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:312):312 - ** end  getAllEmployees without error 
+2022-05-26 14:34:30 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:239):239 - ** start  UpdateEmailByEmployeeIdJPQL : 
+2022-05-26 14:34:30 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:241):241 -  -- N° 1 : the employee :10 will have a new mail :zz@mail.com
+2022-05-26 14:34:30 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:243):243 -  -- N° 2 : the employee :10 updated successfully 
+2022-05-26 14:34:30 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:244):244 - ** end  UpdateEmailByEmployeeIdJPQL without error 
+2022-05-26 14:34:30 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:307):307 - ** start  getAllEmployees : 
+2022-05-26 14:34:30 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:311):311 -  -- N° 1 : the employee list count :2
+2022-05-26 14:34:30 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:312):312 - ** end  getAllEmployees without error 
+2022-05-26 14:35:19 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:307):307 - ** start  getAllEmployees : 
+2022-05-26 14:35:19 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:311):311 -  -- N° 1 : the employee list count :2
+2022-05-26 14:35:19 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:312):312 - ** end  getAllEmployees without error 
+2022-05-26 14:35:19 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:239):239 - ** start  UpdateEmailByEmployeeIdJPQL : 
+2022-05-26 14:35:19 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:241):241 -  -- N° 1 : the employee :11 will have a new mail :hedil@mail.com
+2022-05-26 14:35:19 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:243):243 -  -- N° 2 : the employee :11 updated successfully 
+2022-05-26 14:35:19 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.mettreAjourEmailByEmployeIdJPQL(EmployeServiceImpl.java:244):244 - ** end  UpdateEmailByEmployeeIdJPQL without error 
+2022-05-26 14:35:19 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:307):307 - ** start  getAllEmployees : 
+2022-05-26 14:35:19 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:311):311 -  -- N° 1 : the employee list count :2
+2022-05-26 14:35:19 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.getAllEmployes(EmployeServiceImpl.java:312):312 - ** end  getAllEmployees without error 
+2022-05-26 14:37:16 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.ajouterEmploye(EmployeServiceImpl.java:44):44 - Dans ajouterEmploye() : 
+2022-05-26 14:37:16 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.ajouterEmploye(EmployeServiceImpl.java:45):45 - Ajout de l'emplyé Employe [id=0, prenom=bsr, nom=did, email=didi@esprit.tn, password=aaaa, actif=true, role=CHEF_DEPARTEMENT]
+2022-05-26 14:37:16 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.ajouterEmploye(EmployeServiceImpl.java:48):48 - Ajout Employé fait !!!
+2022-05-26 14:37:16 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.ajouterEmploye(EmployeServiceImpl.java:49):49 - Sortie de ajouterEmployé sans erreurs
+2022-05-26 15:54:53 [INFO ] tn.esprit.spring.services.EmployeServiceImpl.ajouterEmploye(EmployeServiceImpl.java:44):44 - Dans ajouterEmploye() : 
+2022-05-26 15:54:53 [DEBUG] tn.esprit.spring.services.EmployeServiceImpl.ajouterEmploye(EmployeServiceImpl.java:45):45 - Ajout de l'emplyé Employe [id=0, prenom=bsr, nom=did, email=didi@esprit.tn, password=aaaa, actif=true, role=CHEF_DEPARTEMENT]
